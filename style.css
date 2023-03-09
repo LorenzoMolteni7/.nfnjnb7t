@@ -1,9 +1,16 @@
 body
-{background-image:url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Pusiano_%2855406746%29.jpeg)}
+{background-image:url("https://ostellobello.com/wp-content/uploads/2022/01/OB_HI_Lago-di-Pusiano.jpeg")
+background
+
+}
 
 
-nav{background-color: lightpink;
-margin-top: 0px;}
+
+nav{background-color:rgba(rgba(105, 70, 201, 0.932), green, blue, alpha);
+margin:0 auto;
+width: ;
+font-size: ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
 
 #about{color: white;}

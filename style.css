@@ -1,22 +1,43 @@
-body
-{background-image:url("https://ostellobello.com/wp-content/uploads/2022/01/OB_HI_Lago-di-Pusiano.jpeg")
-background
+body{
+    background-image:url("https://ostellobello.com/wp-content/uploads/2022/01/OB_HI_Lago-di-Pusiano.jpeg");
+    background-size:cover;
+;
+    background-repeat: no-repeat;
 
 }
 
 
 
-nav{background-color:rgba(rgba(105, 70, 201, 0.932), green, blue, alpha);
+nav{background-color:rgba(187, 185, 185, 0.932);
+width: 100%;
+font: size 14px; 
 margin:0 auto;
-width: ;
-font-size: ;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
 
 
-#about{color: white;}
+
 nav li{  display: inline-block;
     margin: 0 130px;
-    }
-#home{color: white;}
 
-#contact{color: white;}
+    }
+#home{color: rgb(255, 255, 255);
+font-size: 18px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+
+.animata{
+    width:40%;
+    overflow:hidden
+}
+.info{
+position:fixed;
+bottom: 0;
+width: 100%;
+left:0;
+background-color:rgba(0, 0, 0, 0.253);
+text-align:center;
+padding: 5px 0;
+color:black;
+}

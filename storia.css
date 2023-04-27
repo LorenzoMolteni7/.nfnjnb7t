@@ -8,11 +8,12 @@ body{
 
  
 nav {background-color:rgba(245, 16, 16, 0);
-    width: 80%;
+    width: 110%;
     font: size 14px; 
     margin:0 auto;
     font-family: sans-serif;
     color: rgb(0, 0, 0);
+    text-decoration: none;
       }
     
     

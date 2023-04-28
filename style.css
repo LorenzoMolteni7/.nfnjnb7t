@@ -21,15 +21,16 @@ body{
 
 
 ul#menu {
-	margin:60px 0 0;
+	margin:30px 0 0;
 	padding: 0;
 	list-style: none;
 	float:left;
 	width: 960px;
 	background-color: #111;
-	font-size:80%
+	font-size:80%;
+	
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
 ul#menu li {
 	margin:0;
 	padding:0;
@@ -97,7 +98,7 @@ ul#menu ul a {
 }
 
 ul#menu ul a:hover {
-	background-color: #0186ba;
+	background-color: #1eb6f1;
 	color:#fff
 }
 
@@ -108,7 +109,8 @@ ul#menu ul ul {
 }
 .animata{
     width:40%;
-    overflow:hidden
+    overflow:hidden;
+	margin-top: 120px;
 }
 .info{
 position:fixed;

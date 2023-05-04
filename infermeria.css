@@ -1,7 +1,5 @@
-body{
-   background-image: url("37.jpg");
-    background-size:cover;
-    background-repeat: no-repeat;}
+
+
 
 body{
 	font-size:100%;
@@ -24,7 +22,7 @@ ul#menu {
 	list-style: none;
 	float:left;
 	width: 960px;
-	background-color: #000000;
+	background-color: #111;
 	font-size:80%;
 	
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -34,7 +32,7 @@ ul#menu li {
 	padding:0;
 	float:left;
 	display: block;
-	border-right: 1px solid #292929;
+	border-right: 1px solid #222;
 	position: relative;
 }
 

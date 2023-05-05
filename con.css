@@ -1,6 +1,6 @@
 body{
-    background-color: #ffffff;
-     background-size:cover;
+    background-image: url(https://ckcpusiano.com/wp-content/uploads/2018/06/DSC_0601.jpg);
+     background-size: 100%;
      background-repeat: no-repeat;}
  
  body{
@@ -106,9 +106,18 @@ body{
      margin: 0;
  }
 
- h1{color: #000000;
+ h1{color: #ffffff;
 text-align: center;
 font-family: 'Times New Roman', Times, serif;}
 #Segreteria{color: #1eb6f1;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;}
+
+    #sez{color: #1eb6f1;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;}
+
+        #dire{color: #1eb6f1;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;}
+    

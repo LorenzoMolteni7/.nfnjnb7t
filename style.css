@@ -22,7 +22,7 @@ ul#menu {
 	margin:-10px ;
 	padding: 0;
 	list-style: none;
-    float: inline-start;
+    float: left;
 	width: 1160px;
 	background-color: #000000;
 	font-size:80%;

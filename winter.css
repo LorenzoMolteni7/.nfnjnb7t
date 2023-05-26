@@ -1,6 +1,6 @@
 body{
-    background-image: url(https://ckcpusiano.com/wp-content/uploads/2018/06/DSC_0601.jpg);
-     background-size: 100%;
+    background-image: url("https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/272771231_386621249931811_8751305487104293704_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=g7AllTwkiogAX9_omqd&_nc_oc=AQmA9-e9rejEmaZzkEHru6dwGIx2zEZX-FYQRsvDpbuJu1phL8RdrFyKFHiTBDc8ZPw&_nc_ht=scontent-mxp2-1.xx&oh=00_AfAbYJ8rHbGAqjFO4m-_vpLxKiSRPBddH6_p9h4MByZNQg&oe=6474F6FD");
+     background-size: cover;
      background-repeat: no-repeat;}
  
  body{
@@ -19,14 +19,13 @@ body{
  
  
  ul#menu {
-     margin:-10px 0 0;
+     margin:-10px ;
      padding: 0;
      list-style: none;
-     float:left;
-     width: 960px;
+     float: left;
+     width: 1160px;
      background-color: #000000;
      font-size:80%;
-     
      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
  }
  ul#menu li {
@@ -105,19 +104,15 @@ body{
      left: 150px;
      margin: 0;
  }
+footer{background-color: rgba(0, 0, 0, 0.466);
+	margin-bottom: 0px;
+	}
 
- h1{color: #ffffff;
-text-align: center;
-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
-#Segreteria{color: #1eb6f1;
-    text-align: center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+footer{text-align: center;
+align-items: center;}
 
-    #sez{color: #1eb6f1;
-        text-align: center;
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
-
-        #dire{color: #1eb6f1;
-            text-align: center;
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
-    
+.pdf{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #ffffff;}
+.pdff{margin-right: 35%;
+	margin-left: 0%;
+background-color: ;}
